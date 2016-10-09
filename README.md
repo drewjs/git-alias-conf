@@ -1,6 +1,6 @@
-# git-alias-conf
+# Git Alias Configuration
 
-Some helpful aliases for your git configuration.
+A helpful list of commands for your git workflow.
 
 More information: [Ultimate Git Alias Setup](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
 
